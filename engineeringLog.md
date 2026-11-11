@@ -5,7 +5,7 @@ _How I built it: development history, release log and time record, v1.0 to v4.5.
 | | |
 |---|---|
 | **Project** | Fleet OverWatch (fleetoverwatch.com) |
-| **Author** | Franko (jBravo) |
+| **Author** |(jBravo) |
 | **Period** | September 30 – November 6, 2026 (6 weeks) |
 | **Current release** | Server 4.5.13 · Mobile app 1.3.0 |
 | **Releases logged** | 67 server releases, 4 mobile app releases |
@@ -188,4 +188,4 @@ Thanks for reading. If you have questions about any of these decisions, or ideas
 
 ---
 
-Franko (jBravo) · November 7, 2026
+(jBravo) · November 7, 2026
